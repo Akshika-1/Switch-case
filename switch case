@@ -1,5 +1,4 @@
 package switchcase;
-
 import java.util.Scanner;
 
 public class SwitchCase {
@@ -23,5 +22,5 @@ public class SwitchCase {
     default: System.out.println("Invalid choice!");              
 	}
 
-	}
+}
 }
